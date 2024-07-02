@@ -49,7 +49,7 @@ My research interest includes:
 
 # 🎖 Honors and Awards
 - *2023* UT Austin Professional Development Awards.
-- *2023* ASHG 2023 Charles Epstein Award Finalist (**18 / over 1000**). \[\[link\]\](https://www.ashg.org/wp-content/uploads/2023/12/ASHG-Trainee-Research-for-Excellence-Awards-2023-Recipients.pdf)
+- *2023* ASHG 2023 Charles Epstein Award Finalist (**18 / over 1000**). [link](https://www.ashg.org/wp-content/uploads/2023/12/ASHG-Trainee-Research-for-Excellence-Awards-2023-Recipients.pdf)
 
 # 📖 Educations
 - *2022.06 - now*, PhD, The University of Texas at Austin. 
