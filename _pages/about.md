@@ -48,15 +48,16 @@ My research interest includes:
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2023* UT Austin Professional Development Awards
-- *2023* ASHG 2023 Charles Epstein Award Finalist (**18 / over 1000**).
+- *2023* UT Austin Professional Development Awards.
+- *2023* ASHG 2023 Charles Epstein Award Finalist (**18 / over 1000**). \[\[link\]\](https://www.ashg.org/wp-content/uploads/2023/12/ASHG-Trainee-Research-for-Excellence-Awards-2023-Recipients.pdf)
 
 # 📖 Educations
 - *2022.06 - now*, PhD, The University of Texas at Austin. 
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Invited Talks
+- *2023*, Deep learning to understand the genetic architecture and evolution of the human pelvis. **ASHG 2023**; Washington, D.C.
+- *2023*, Deep learning to understand the genetic architecture and evolution of the human pelvis. The University of Texas at Austin, **Special BASIL Meeting**, Department of Anthropology
+- *2023*, Deep learning to understand the genetic architecture and evolution of the human pelvis. The University of Texas at Austin, **BioTACOs**, Department of Integrative Biology
 
-# 💻 Internships
+<!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
