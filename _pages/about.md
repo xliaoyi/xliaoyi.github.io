@@ -54,7 +54,7 @@ My research interest includes:
 # 📖 Educations
 - *2022.06 - now*, PhD, The University of Texas at Austin. 
 
-# 💬 Invited Talks
+# 💬 Talks
 - *2023*, Deep learning to understand the genetic architecture and evolution of the human pelvis. **ASHG 2023**; Washington, D.C.
 - *2023*, Deep learning to understand the genetic architecture and evolution of the human pelvis. The University of Texas at Austin, **Special BASIL Meeting**, Department of Anthropology
 - *2023*, Deep learning to understand the genetic architecture and evolution of the human pelvis. The University of Texas at Austin, **BioTACOs**, Department of Integrative Biology
