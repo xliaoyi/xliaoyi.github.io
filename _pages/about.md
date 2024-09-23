@@ -52,9 +52,9 @@ My research interest includes:
 - *2023* ASHG 2023 Charles Epstein Award Finalist (**18 / over 1000**). [link](https://www.ashg.org/wp-content/uploads/2023/12/ASHG-Trainee-Research-for-Excellence-Awards-2023-Recipients.pdf)
 
 # 📖 Educations
-- *2022.06 - now*, Ph.D., The University of Texas at Austin. 
-- *2018.09 - 2021.03*, M.A., Zhejiang University.
-- *2014.09 - 2018.06*, B.S., Southwest University for Nationalities.
+- *2022.06 - now*,     Ph.D., The University of Texas at Austin. 
+- *2018.09 - 2021.03*, M.A.,  Zhejiang University.
+- *2014.09 - 2018.06*, B.S.,  Southwest University for Nationalities.
 
 # 💬 Talks
 - *2023*, Deep learning to understand the genetic architecture and evolution of the human pelvis. **ASHG 2023**; Washington, D.C.
@@ -62,12 +62,12 @@ My research interest includes:
 - *2023*, Deep learning to understand the genetic architecture and evolution of the human pelvis. The University of Texas at Austin, **BioTACOs**, Department of Integrative Biology
 
 # 📔 Courses
-- Intro Biostats & Comp Analysis (A)
-- Bioinformatics (A)
-- Scientific Machine Learning (A)
-- Quant/Population Genetics (A)
-- Bayesian Statistical Methods (A)
-- Natural Language Processing (A)
+- Intro Biostats & Comp Analysis    (A)
+- Bioinformatics                    (A)
+- Scientific Machine Learning       (A)
+- Quant/Population Genetics         (A)
+- Bayesian Statistical Methods      (A)
+- Natural Language Processing       (A)
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
