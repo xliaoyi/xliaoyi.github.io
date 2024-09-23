@@ -59,5 +59,13 @@ My research interest includes:
 - *2023*, Deep learning to understand the genetic architecture and evolution of the human pelvis. The University of Texas at Austin, **Special BASIL Meeting**, Department of Anthropology
 - *2023*, Deep learning to understand the genetic architecture and evolution of the human pelvis. The University of Texas at Austin, **BioTACOs**, Department of Integrative Biology
 
+# 📔 Courses
+- Intro Biostats & Comp Analysis (A)
+- Bioinformatics (A)
+- Scientific Machine Learning (A)
+- Quant/Population Genetics (A)
+- Bayesian Statistical Methods (A)
+- Natural Language Processing (A)
+
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->

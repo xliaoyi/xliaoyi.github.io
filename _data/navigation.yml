@@ -18,5 +18,8 @@ main:
   - title: "Talks"
     url: "/#-talks"
 
+  - title: "Courses"
+    url: "/#-courses"
+
   # - title: "Internships"
   #   url: "/#-internships"
